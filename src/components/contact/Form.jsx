@@ -75,7 +75,7 @@ export default function Form() {
 
   const onSubmit = (data) => {
     const templateParams = {
-      to_name: "CodeBucks",
+      to_name: "Augustine Sebastian",
       from_name: data.name,
       reply_to: data.email,
       message: data.message,
@@ -148,7 +148,7 @@ export default function Form() {
 
         <motion.input
           variants={item}
-          value="Cast your message!"
+          value="Send message!"
           className="px-10 py-4 rounded-md shadow-lg bg-background border border-accent/30 border-solid
       hover:shadow-glass-sm backdrop-blur-sm text-foreground focus:outline-none focus:ring-2 focus:ring-accent/50 cursor-pointer capitalize
       "
