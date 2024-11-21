@@ -15,16 +15,19 @@ const AboutDetails = () => {
             Cosmic Code Explorer
           </h2>
           <p className="font-light text-base sm:text-lg md:text-xl">
-            My journey through the digital cosmos is powered by a constellation of
-            modern technologies, with JavaScript as my navigation system. I pilot
-            frameworks like React.js and Next.js with precision, engineering
-            digital spacecraft (websites) that traverse the vast expanse of the
-            internet. The advanced architecture of Jamstack serves as my
-            spacecraft's engine, enabling me to create high-velocity, secure, and
-            dynamic experiences. My design expertise ensures each digital vessel
-            not only performs optimally but also captures the beauty of the
-            digital universe. Join me as we venture into unexplored digital
-            frontiers and push the boundaries of web technology.
+            Navigating the digital cosmos with a diverse constellation of technologies - 
+            Java, Python, PHP, and Flutter are my guiding stars. Like a skilled cosmic 
+            architect, I craft digital vessels ranging from melodious streaming platforms 
+            to intelligent home automation systems. My journey through the tech universe 
+            has been marked by stellar achievements at NASA Space Apps and various 
+            hackathon galaxies, where I've engineered solutions that transcend traditional 
+            boundaries. As a Local Co-Lead for NASA Space Apps and Deputy Chief FOSS 
+            Ambassador, I'm charting new paths for fellow explorers in the vast expanse 
+            of technology. My spacecraft's engine is powered by cutting-edge tools and 
+            frameworks, while my navigation system is guided by an unwavering curiosity 
+            in Quantum Computing and UI/UX design. Join me as we venture into the 
+            unexplored frontiers of innovation, where each line of code opens a portal 
+            to new technological dimensions.
           </p>
         </ItemLayout>
 
