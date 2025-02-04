@@ -1,6 +1,7 @@
 import React from "react";
 import ItemLayout from "./ItemLayout";
 import Link from "next/link";
+import Image from 'next/image';
 
 const AboutDetails = () => {
   return (
@@ -36,7 +37,9 @@ const AboutDetails = () => {
         <ItemLayout
           className={"col-span-full sm:col-span-6 md:col-span-4 !p-0"}
         >
-          <img
+          <Image
+            width={800}
+            height={200}
             className="w-full h-auto"
             src={`https://github-readme-stats-augustine-sebastians-projects.vercel.app/api/top-langs?username=augustinesebastian007&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false`}
             alt="augustinesebastian007"
@@ -45,7 +48,9 @@ const AboutDetails = () => {
         </ItemLayout>
         
         <ItemLayout className={"col-span-full md:col-span-8 !p-0"}>
-          <img
+          <Image
+            width={800}
+            height={200}
             className="w-full h-auto"
             src={`https://github-readme-stats-augustine-sebastians-projects.vercel.app/api?username=augustinesebastian007&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false`}
             alt="augustinesebastian007"
@@ -53,7 +58,9 @@ const AboutDetails = () => {
           />
         </ItemLayout>
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
-          <img
+          <Image
+            width={800}
+            height={200}
             className="w-full h-auto"
             src={`https://streak-stats.demolab.com?user=augustinesebastian007&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B`}
             alt="augustinesebastian007"
@@ -61,7 +68,9 @@ const AboutDetails = () => {
           />
         </ItemLayout>
         <ItemLayout className={"col-span-full"}>
-          <img
+          <Image
+            width={800}
+            height={200}
             className="w-full h-auto"
             src={`https://skillicons.dev/icons?i=bootstrap,css,docker,figma,firebase,git,github,html,js,jquery,mongodb,mysql,netlify,nextjs,nodejs,npm,react,redux,replit,tailwind,threejs,vscode`}
             alt="augustinesebastian007"

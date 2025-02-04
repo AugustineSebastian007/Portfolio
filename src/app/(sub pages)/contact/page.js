@@ -23,11 +23,11 @@ export default function Contact() {
             establish contact
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-            Ready to initiate transmission? Whether you're seeking interstellar collaborations, 
+            Ready to initiate transmission? Whether you&apos;re seeking interstellar collaborations, 
             have questions about the digital cosmos, or want to explore new technological frontiers together, 
             your message will traverse the digital space-time to reach my command center. 
             Use the communication portal below to beam your thoughts across the digital universe, 
-            and I'll respond faster than light-speed.
+            and I&apos;ll respond faster than light-speed.
           </p>
         </div>
         <Form />
